@@ -49,9 +49,9 @@ menu_items = [
     {name = "tags", url = "$BASE_URL/tags"},
     {name = "archive", url = "$BASE_URL/archive"},
     {name = "about me", url = "$BASE_URL/about"},
-
     # set newtab to true to make the link open in new tab
     {name = "github", url = "https://github.com/vbrvk", newtab = true},
+    {name = "abi", url = "$BASE_URL/abi"},
 ]
 
 # Whether to show links to earlier and later (aka. higher/lower) posts
